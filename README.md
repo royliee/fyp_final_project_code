@@ -17,7 +17,7 @@ Hyperparameters were optimized (e.g., `max_depth`, `learning_rate`) to balance b
 ## 📂 Dataset
 The model is trained on the **Elliptic Data Set**, a graph network of Bitcoin transactions.
 * **Dataset Name:** Elliptic Data Set
-* **Source:** Kaggle / UCI Machine Learning Repository
+* **Source:** [Kaggle / UCI Machine Learning Repository](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set)
 * **Description:** The dataset maps Bitcoin transactions to real entities belonging to licit categories (exchanges, wallet providers, miners, licit services, etc.) versus illicit ones (scams, malware, terrorist organizations, ransomware, Ponzi schemes, etc.).
 * *Note: Due to GitHub's file size limits, the raw dataset is not included in this repository. Please download it from the source above.*
 
@@ -39,7 +39,7 @@ The project is built using **Python** in a **Jupyter Notebook** environment.
     ```
 2.  **Navigate to the project folder:**
     ```bash
-    cd YOUR_ACTUAL_REPO_NAME
+    cd fyp_final_project_code
     ```
 3.  **Install dependencies:**
     ```bash
